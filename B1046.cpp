@@ -6,6 +6,7 @@ typedef  struct  combine{
     int row;
 }combine;
 
+
 int main() {
 
 
