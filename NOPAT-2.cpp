@@ -7,6 +7,8 @@
 //中心花色字符，外筐花色字符，后二者都为 ASCII 可见字符；
 //e.g : 11 B A
 
+//more details check the same photo under picture directory
+
 /*--------------------output   this is bird-eye view,which means a circle spans across multiple lines
 
  AAAAAAAAA
