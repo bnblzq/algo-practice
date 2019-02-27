@@ -44,11 +44,6 @@ homework to you: tell him the maximum amount of JavaBeans he can obtain.
 
   */
 
-
-
-
-
-
 #include "algorithm"
 #include "stdio.h"
 
