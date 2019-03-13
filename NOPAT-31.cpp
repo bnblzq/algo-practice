@@ -60,7 +60,7 @@ void transform(int n,int m){
         }
     }
 
-    for (int i = 1; i <= m; ++i) {
+    for (int i = 1; i <= n; ++i) {   //TODO : m or n???!!!! should be n, when n=3 & m=2,if there exists a edge from 3->1 ,then edge[3] is not null, so it will be missed
         for (int j = 0; j < edge[i].size(); ++j) {
             int start = i-1;
             int end  = edge[i][j].next -1;
